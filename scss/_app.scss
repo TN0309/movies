@@ -1,0 +1,21 @@
+.hero{
+  height: 520px !important;
+}
+.movies{
+  background-color: #0C111B;;
+}
+.movie__list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  li{
+    margin-top: 120px;
+  }
+}
+.card{
+  background-color: #0C111B;
+  height: 500px;
+  width: 700px;
+  color: white;
+  
+}
